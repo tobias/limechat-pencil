@@ -2,11 +2,16 @@
 ## a dark theme for [LimeChat](http://limechat.net/mac/)
 
 This theme is based off of the [Graphite](https://github.com/gregnewman/limechat-graphite) theme, with the following changes:
+
 * the console is now styled
 * highlights stand out more
 * probably other things that I've forgotten
 
 It's not perfect, but it's getting there :)
+
+### Screenshot
+
+[Yes!](https://github.com/tobias/limechat-pencil/raw/master/pencil_screenshot.png)
 
 ### Installation
 
@@ -27,6 +32,8 @@ If you'd rather clone the git repo and link the files, follow the lemon squeezy 
 The install script links the css and yaml in to `~/Library/Application\ Support/LimeChat/Themes/`,
 creating the dir as necessary.
 
+### License
 
+Do what you want with it. If you make changes to it, let me know - I'd like to see them.
 
 
